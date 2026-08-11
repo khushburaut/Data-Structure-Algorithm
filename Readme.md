@@ -42,14 +42,6 @@ I am using this repository to practice problem-solving, improve my coding skills
 ```text
 Data-Structure-Algorithm/
 │
-├── C++/
-│   ├── 0001-Two-Sum.cpp
-│   ├── 0147-Shuffle-the-Array.cpp
-│   └── ...
-│
-├── Python/
-│   ├── 0001-Two-Sum.py
-│   ├── 0147-Shuffle-the-Array.py
-│   └── ...
-│
+├── C++
+├── Python
 └── README.md
